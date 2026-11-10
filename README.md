@@ -1,14 +1,44 @@
+![Boolean Tech Academy](https://img.shields.io/badge/Boolean_Tech_Academy-001632?style=for-the-badge)
 
-# Esercizio: Bootstrap Grid Layout
+# 🎓 Exercise 10/50 - Bootstrap Grid Layout
 
-Nome repo: `htmlcss-bootstrap-layout`
+Recreating a responsive grid layout using Bootstrap 5 and its grid system.
 
-## Consegna
+## 📌 Project Overview
 
-Riprodurre un layout con griglia responsive utilizzando Bootstrap 5! Aiutatevi con gli screenshot in allegato e le classi di Bootstrap per riprodurre il giusto layout a seconda dello spazio a disposizione sui diversi dispositivi
+| Property | Details |
+|:--|:--|
+| Repository | htmlcss-bootstrap-layout |
+| Category | Boolean Tech Academy |
+| Type | Exercise |
+| Exercise | 10/50 |
 
-**Bonus**
+## 🎯 Assignment
 
-* E’ possibile che solo per il breakpoint `Extra small` le colonne occupino tutto lo spazio disponibile?
-* E’ possibile centralizzare in qualche punto il fatto che il testo sia bianco?
-* E’ possibile centralizzare il layout delle colonne di qualche riga utilizzando la classe `row-cols`?
+Recreate a responsive grid layout using **Bootstrap 5**!
+
+Use the provided reference screenshots and Bootstrap classes to reproduce the appropriate layout according to the available space on different devices.
+
+### ⭐ Bonus
+
+Try to implement the following additional improvements:
+
+- Make columns occupy the full available width only at the **X-Small breakpoint** (class infix: none, viewport width below `576px`).
+- Find a way to apply white text color centrally, rather than repeating the same class on multiple elements.
+- Use the `row-cols` class to centralize the column layout of selected rows.
+
+## 🛠️ Technologies
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+## 💡 What I Learned
+
+- Building responsive layouts with the Bootstrap 5 grid system.
+- Using containers, rows and columns to structure page layouts.
+- Managing column sizes across different responsive breakpoints.
+- Applying Bootstrap utility classes to manage text colors and layout behavior.
+- Using the `row-cols` class to control the number of columns within a row.
+
+## ©️ Credits
+
+Exercise assigned by **Boolean Tech Academy** as part of the Web Development course - Class 152 - Year 2025-2026
