@@ -4,14 +4,11 @@
 
 Recreating a responsive grid layout using Bootstrap 5 and its grid system.
 
-## Project Overview
+## Project overview
 
-| Property | Details |
-|:--|:--|
-| Repository | htmlcss-bootstrap-layout |
-| Category | Boolean Tech Academy |
-| Type | Exercise |
-| Exercise | 10/50 |
+| Repository | Project | Category | Main Focus | Exercise |
+|:--|:--|:--|:--|:--|
+| htmlcss-bootstrap-layout | Bootstrap Grid Layout | Exercise | Bootstrap 5 Grid System | 10/50 |
 
 ## Assignment
 
@@ -19,7 +16,7 @@ Recreate a responsive grid layout using **Bootstrap 5**!
 
 Use the provided reference screenshots and Bootstrap classes to reproduce the appropriate layout according to the available space on different devices.
 
-#### Bonus
+#### Bonus challenge
 
 Try to implement the following additional improvements.
 
