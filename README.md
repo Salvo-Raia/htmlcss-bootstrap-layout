@@ -19,9 +19,9 @@ Recreate a responsive grid layout using **Bootstrap 5**!
 
 Use the provided reference screenshots and Bootstrap classes to reproduce the appropriate layout according to the available space on different devices.
 
-**Bonus**
+#### Bonus
 
-Try to implement the following additional improvements:
+Try to implement the following additional improvements.
 
 - Make columns occupy the full available width only at the **X-Small breakpoint** (class infix: none, viewport width below `576px`).
 - Find a way to apply white text color centrally, rather than repeating the same class on multiple elements.
