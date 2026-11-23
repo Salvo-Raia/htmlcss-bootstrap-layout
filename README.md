@@ -8,7 +8,7 @@ Recreating a responsive grid layout using Bootstrap 5 and its grid system.
 
 | Repository | Project | Category | Main Focus | Exercise |
 |:--|:--|:--|:--|:--|
-| htmlcss-bootstrap-layout | Bootstrap Grid Layout | Exercise | Bootstrap 5 Grid System | 10/50 |
+| htmlcss-bootstrap-layout | Bootstrap Grid Layout | Exercise | Bootstrap & Grid System | 10/50 |
 
 ## Assignment
 
